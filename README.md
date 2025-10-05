@@ -1,7 +1,7 @@
 # LSE ME317 Project Report  
 ### What Happened During the COVID-19 Pandemic?
 
-**Author**: Fabio Antonicoli  
+**Author**: Matteo Piccirilli  
 **Date**: July 27, 2025  
 
 ---
